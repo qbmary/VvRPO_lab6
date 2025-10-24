@@ -1,0 +1,20 @@
+# Maven / Java
+target/
+*.class
+*.jar
+
+# IDE
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# build artifacts
+bin/
+out/
+
+# OS
+Thumbs.db
+.DS_Store
